@@ -17,4 +17,6 @@ Saat ini saya sedang belajar:
 
 Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya jika Anda ingin berdiskusi atau berkolaborasi.
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=S4giriChaN&label=Profile%20Views&color=12&icon=0&pretty=false" />
+</a>
