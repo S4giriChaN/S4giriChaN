@@ -1,16 +1,20 @@
-## Hi there 👋
+# Halo! 👋
 
-<!--
-**S4giriChaN/S4giriChaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil GitHub saya! 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Sedang Belajar
+
+Saat ini saya sedang belajar:
+
+- [Kursus atau teknologi yang sedang dipelajari]
+- [Proyek yang sedang dikembangkan]
+
+## 📈 Statistik GitHub
+
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=S4giriChaN&show_icons=true&hide_border=true&theme=radical)
+
+
+Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya jika Anda ingin berdiskusi atau berkolaborasi.
+
+
